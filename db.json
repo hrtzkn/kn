@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Catnip Toy",
+        "description": "A playful treat for your furry friend.",
+        "price": 9.99,
+        "image": "/2.jfif"
+      },
+      {
+        "id": 2,
+        "title": "Cozy Cat Bed",
+        "description": "For the ultimate cat nap.",
+        "price": 29.99,
+        "image": "/1.jfif"
+      },
+      {
+        "id": 3,
+        "title": "Scratching Post",
+        "description": "Save your furniture in style.",
+        "price": 19.99,
+        "image": "/3.jfif"
+      },
+      {
+        "id": 4,
+        "title": "Automatic Feeder",
+        "description": "Keep your cat fed and happy.",
+        "price": 49.99,
+        "image": "/4.jfif"
+      }
+    ]
+  }
+  
